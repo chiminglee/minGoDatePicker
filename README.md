@@ -8,4 +8,4 @@ datepicker for default and Chinese datepicker
 
 找了很久，也想盡辦法看原始碼，終於弄出解法，希望有幫助到需要民國年的人。
 
-範例: <a href="http://www.cc.ncu.edu.tw/~center61/minGoDatePicker/mingo.html">連結</a>
+範例: <a href="http://www.cc.ncu.edu.tw/~center61/minGoDatePicker/mingo.html" target="_blank">連結</a>
